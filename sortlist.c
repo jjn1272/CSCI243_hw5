@@ -39,8 +39,8 @@ int main(void){
        head=sorting(head,x);
        count++;
    }
-   printf("Count: %d\n",count);
-   printf("Sorted:");
+   printf("count: %d\n",count);
+   printf("sorted:");
    Node *current=head;
    while(current!=NULL){
        printf(" %d",current->value);

@@ -1,0 +1,23 @@
+commit e7eb6ba4f87122cea062c915fb4868dd0e25cca6
+Author: Jacob Nahui-Saune <jjn1272@rit.edu>
+Date:   Thu Oct 15 15:04:03 2026 -0400
+
+    Commiting work done
+
+commit 8ca464733bef98f85d4669a66ba94f2166dc2d85
+Author: Jacob Nahui-Saune <jjn1272@rit.edu>
+Date:   Thu Oct 15 15:00:58 2026 -0400
+
+    Commiting work done
+
+commit dff9521a9e7de0a3258a7fba97ba8a116e8956ff
+Author: Jacob Nahui-Saune <jjn1272@rit.edu>
+Date:   Thu Oct 15 11:33:22 2026 -0400
+
+    Commiting work done so far
+
+commit 38a2ea4653e7a7586031eea6bc77e3df5b6cab96
+Author: Jacob Nahui-Saune <jjn1272@rit.edu>
+Date:   Wed Oct 14 16:25:02 2026 -0400
+
+    Baseline: Node struct and read/print loop
